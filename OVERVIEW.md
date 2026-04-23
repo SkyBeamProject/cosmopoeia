@@ -4,10 +4,10 @@ Cosmopoeia is a Rust-based worldbuilding tool for generating fictional world map
 
 Key parts of the repo:
 
-- `src/` — Rust source for the generation pipeline and CLI.
-- `share/` — shared data assets used during generation.
-- `json-schemas/` — schema definitions for inputs and outputs.
-- `docs/`, `Readme.md`, `Compiling.md`, `Development.md` — user and contributor documentation.
-- `idea.md`, `changelog.md` — design notes and release history.
+- [src/](src/) — Rust source for the generation pipeline and CLI.
+- [share/](share/) — shared data assets used during generation.
+- [json-schemas/](json-schemas/) — schema definitions for inputs and outputs.
+- [docs/](docs/), [Readme.md](Readme.md), [Compiling.md](Compiling.md), [Development.md](Development.md) — user and contributor documentation.
+- [idea.md](idea.md), [changelog.md](changelog.md) — design notes and release history.
 
-See `Readme.md` for a full feature list and `Compiling.md` for build instructions.
+See [Readme.md](Readme.md) for a full feature list and [Compiling.md](Compiling.md) for build instructions.
